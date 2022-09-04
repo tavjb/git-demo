@@ -17,3 +17,9 @@ git add <location of files> (. for here)
 ```
 git commit -m "<message contents>"
 ```
+
+\*\* To see the git history:
+
+```
+git log
+```
