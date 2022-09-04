@@ -23,3 +23,15 @@ git commit -m "<message contents>"
 ```
 git log
 ```
+
+\*\* To add a new remote:
+
+```
+git remote add origin <repo url>
+```
+
+\*\* To push a branch to github for the first time:
+
+```
+git push --set-upstream origin main
+```
